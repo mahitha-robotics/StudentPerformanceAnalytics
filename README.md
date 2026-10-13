@@ -131,9 +131,7 @@ Shows the class average, subject-wise averages, top three students, and performa
 
 Through this project, I practiced Python functions, conditional statements, loops, NumPy calculations, Pandas DataFrame operations, CSV file handling, and GitHub version control.
 
-## 12. GitHub Repository
 
-Repository: https://github.com/Sahithi2201/student-performance-analytics
 
 ## 13. Conclusion
 
